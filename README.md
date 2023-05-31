@@ -3,7 +3,7 @@ A program that encrypt/decrypts a message using Caesar cipher.
 You can give it a plain text file for it to encrypt and an encrypted file for it to decrypt.
 
 # Program Compilation
-gcc caesar_cipher.c cc_utils.c -o caesar_cipher.o
+  ## gcc caesar_cipher.c cc_utils.c -o caesar_cipher.o
 
 # Program Execution
 The program runs in 2 mode:
