@@ -241,7 +241,7 @@ int main(int argc, char **argv)
     {
         // User wants to encrypt a message using Caesar Cipher
         case 'e':
-			encrypt_message(argc, filename);
+		encrypt_message(argc, filename);
             break;
             
         // User wants to decrypt a message using Caesar Cipher
