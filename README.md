@@ -10,6 +10,6 @@ The program runs in 2 mode:
 (1) User supplies the plain text/encrypted message using the command line: ./caesar_cipher.o
 (2) User gives the program a file containing a plain text/encrypted message.  ./caesar_cipher test.txt
 
-#NOTE: 
+# NOTE: 
 Currently, the program does not support fullstops and other punctuation marks in the English Language like, comma, semi-colon, etc.
 
